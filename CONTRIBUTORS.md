@@ -17,3 +17,10 @@
 - Place: Gujarat , India
 - Bio: Student
 - GitHub: [Arjun Thakor](https://github.com/The-Arjun-Thakor/)
+
+
+#### Name: [Lai Kok Wui](https://github.com/Laikokwui)
+
+- Place: Sarawak, Malaysia
+- Bio: Student
+- GitHub: [Lai Kok Wui](https://github.com/Laikokwui)
