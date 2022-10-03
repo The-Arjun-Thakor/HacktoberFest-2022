@@ -23,3 +23,10 @@
 - Place: Delhi , India
 - Bio: Student
 - GitHub: [Kushagra](https://github.com/kushagra-a)
+
+#### Name: [Vishnu Sony](https://github.com/zarvish)
+
+- Place: Rajasthan , India
+- Bio: Student
+- GitHub: [Vishnu Sony](https://github.com/zarvish/)
+
