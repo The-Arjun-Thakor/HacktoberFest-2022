@@ -17,3 +17,9 @@
 - Place: Gujarat , India
 - Bio: Student
 - GitHub: [Arjun Thakor](https://github.com/The-Arjun-Thakor/)
+
+#### Name: [Kushagra](https://github.com/kushagra-a)
+
+- Place: Delhi , India
+- Bio: Student
+- GitHub: [Kushagra](https://github.com/kushagra-a)
