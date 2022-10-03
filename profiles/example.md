@@ -21,7 +21,7 @@ Who needs college? :P
 
 ### Projects
 
-- [Filmpire](https://github.com/zarvish/Filmpire) Filmpire is a comprehensive movie application where users can discover titles within specific categories and genres, save them to watchlists, view trailers for upcoming films, and access information about the cast, synopsis, and more. 
+- [Filmpire](https://github.com/zarvish/Filmpire) is a comprehensive movie application where users can discover titles within specific categories and genres, save them to watchlists, view trailers for upcoming films, and access information about the cast, synopsis, and more. 
 
 ### Profile Link
 
