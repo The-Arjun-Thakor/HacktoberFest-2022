@@ -17,3 +17,8 @@
 - Place: Gujarat , India
 - Bio: Student
 - GitHub: [Arjun Thakor](https://github.com/The-Arjun-Thakor/)
+
+## Name: [Arian Ahmadinejad](https://github.com/arian81)
+- Place: Toronto, Canada
+- Bio: Student
+- GitHub: [Arian81](https://github.com/arian81)
