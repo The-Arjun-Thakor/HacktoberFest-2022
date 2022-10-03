@@ -1,8 +1,8 @@
-# Cody Williams
+# Vishnu Sony
 
 ### Location
 
-Dallas, TX, USA
+Rajasthan, India
 
 ### Academics
 
@@ -11,9 +11,8 @@ Who needs college? :P
 ### Interests
 
 - JavaScript
-- Node, Express, Angular2/4
-- Data Science
-- Skateboarding
+- React, Django
+- Machine Learning
 - Music
 
 ### Development
@@ -22,8 +21,8 @@ Who needs college? :P
 
 ### Projects
 
-- [skateSpots](https://github.com/codyw9524/skateSpots) A web app designed to allow users to share street skating locations.
+- [Filmpire](https://github.com/zarvish/Filmpire) is a comprehensive movie application where users can discover titles within specific categories and genres, save them to watchlists, view trailers for upcoming films, and access information about the cast, synopsis, and more. 
 
 ### Profile Link
 
-[Cody Williams](https://github.com/codyw9524)
+[Vishnu Sony](https://github.com/zarvish)
