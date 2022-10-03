@@ -1,3 +1,10 @@
+#### Name: [Harsh More](https://github.com/moreharsh)
+
+- Place: Maharashtra, India
+- Bio: Student
+- Github: [Harsh More](https://github.com/moreharsh)
+
+
 #### Name: [ICT Ganpat ](https://github.com/ARJUN-SINH-THAKOR/)
 
 - Place: Gujarat , India
