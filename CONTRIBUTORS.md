@@ -36,10 +36,18 @@
 - Bio: Student
 - GitHub: [Vishnu Sony](https://github.com/zarvish/)
 
+
 #### Name: [Lai Kok Wui](https://github.com/Laikokwui)
 
 - Place: Sarawak, Malaysia
 - Bio: Student
 - GitHub: [Lai Kok Wui](https://github.com/Laikokwui)
+
+## Name: [Isuru Gunarathne](https://github.com/IsuruGunarathne)
+
+- Place: Gampaha, Sri Lanka
+- Bio: CSE undergraduate
+- GitHub: [IsuruGunarathne](https://github.com/IsuruGunarathne)
+
 
 
