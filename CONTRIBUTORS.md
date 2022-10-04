@@ -49,5 +49,11 @@
 - Bio: CSE undergraduate
 - GitHub: [IsuruGunarathne](https://github.com/IsuruGunarathne)
 
+## Name: [Manu Pandey](https://github.com/ManuFake)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: JECRC University
+- GitHub: [Manu Fake](https://github.com/ManuFake)
+
 
 
