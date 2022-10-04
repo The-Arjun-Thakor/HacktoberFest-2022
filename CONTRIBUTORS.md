@@ -49,5 +49,9 @@
 - Bio: CSE undergraduate
 - GitHub: [IsuruGunarathne](https://github.com/IsuruGunarathne)
 
+#### Name: [Arjunthakor](https://github.com/ARJUN-SINH-THAKOR)
+
+- Place: India
+- Bio: Student
 
 
