@@ -36,4 +36,10 @@
 - Bio: Student
 - GitHub: [Vishnu Sony](https://github.com/zarvish/)
 
+## Name: [Isuru Gunarathne](https://github.com/IsuruGunarathne)
+
+- Place: Gampaha, Sri Lanka
+- Bio: CSE undergraduate
+- GitHub: [IsuruGunarathne](https://github.com/IsuruGunarathne)
+
 
