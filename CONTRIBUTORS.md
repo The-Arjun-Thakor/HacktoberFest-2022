@@ -4,13 +4,11 @@
 - Bio: Student
 - Github: [Harsh More](https://github.com/moreharsh)
 
-
 #### Name: [ICT Ganpat ](https://github.com/ARJUN-SINH-THAKOR/)
 
 - Place: Gujarat , India
 - Bio: Student
 - GitHub: [ICT Ganpaat ](https://github.com/ARJUN-SINH-THAKOR/)
-
 
 #### Name: [Arjun Thakor](https://github.com/The-Arjun-Thakor)
 
@@ -18,8 +16,14 @@
 - Bio: Student
 - GitHub: [Arjun Thakor](https://github.com/The-Arjun-Thakor/)
 
+## Name: Soumya Kushwaha(https://github.com/Soumya-Kushwaha)
+
+- Place: Madhya Pradesh, India
+- Bio: Student
+- GitHub: [Soumya Kushwaha](https://github.com/Soumya-Kushwaha)
 
 ## Name: [Arian Ahmadinejad](https://github.com/arian81)
+
 - Place: Toronto, Canada
 - Bio: Student
 - GitHub: [Arian81](https://github.com/arian81)
@@ -36,7 +40,6 @@
 - Bio: Student
 - GitHub: [Vishnu Sony](https://github.com/zarvish/)
 
-
 #### Name: [Lai Kok Wui](https://github.com/Laikokwui)
 
 - Place: Sarawak, Malaysia
@@ -49,7 +52,6 @@
 - Bio: CSE undergraduate
 - GitHub: [IsuruGunarathne](https://github.com/IsuruGunarathne)
 
-
 ## Name: [Manu Pandey](https://github.com/ManuFake)
 
 - Place: Jaipur, Rajasthan, India
@@ -60,5 +62,3 @@
 
 - Place: India
 - Bio: Student
-
-
