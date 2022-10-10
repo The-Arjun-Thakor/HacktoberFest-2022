@@ -61,4 +61,8 @@
 ## Name: [Arjunthakor](https://github.com/ARJUN-SINH-THAKOR)
 
 - Place: India
-- Bio: Student
+
+
+#### Name: [Harsh Bhakkad](https://github.com/HarshBhakkad)
+
+-College: IIT Guwahati.
