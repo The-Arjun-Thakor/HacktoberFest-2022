@@ -65,4 +65,4 @@
 
 #### Name: [Harsh Bhakkad](https://github.com/HarshBhakkad)
 
--College: IIT Guwahati.
+- College: IIT Guwahati.
