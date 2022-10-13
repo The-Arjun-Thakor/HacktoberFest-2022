@@ -4,17 +4,6 @@
 - Bio: Student
 - Github: [Harsh More](https://github.com/moreharsh)
 
-#### Name: [ICT Ganpat ](https://github.com/ARJUN-SINH-THAKOR/)
-
-- Place: Gujarat , India
-- Bio: Student
-- GitHub: [ICT Ganpaat ](https://github.com/ARJUN-SINH-THAKOR/)
-
-#### Name: [Arjun Thakor](https://github.com/The-Arjun-Thakor)
-
-- Place: Gujarat , India
-- Bio: Student
-- GitHub: [Arjun Thakor](https://github.com/The-Arjun-Thakor/)
 
 ## Name: Soumya Kushwaha(https://github.com/Soumya-Kushwaha)
 
@@ -61,11 +50,26 @@
 ## Name: [Arjunthakor](https://github.com/ARJUN-SINH-THAKOR)
 
 - Place: India
+
+
+
+#### Name: [Harsh Bhakkad](https://github.com/HarshBhakkad)
+
+- College: IIT Guwahati.
+
 - Bio: Student
+
 
 ## Name: [Mark Lyndon](https://github.com/mark-git07)
 
 - Place: Philippines
 - Bio: Computer Science Graduate
 - GitHub: [Mark Lyndon](https://github.com/mark-git07)
+
+## Name: [Fikri Khairul Shaleh](https://github.com/fikriks)
+
+- Place: Indonesia
+- Bio: Student
+- GitHub: [fikriks](https://github.com/fikriks)
+
 
