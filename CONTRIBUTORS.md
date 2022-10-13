@@ -62,3 +62,9 @@
 
 - Place: India
 - Bio: Student
+
+## Name: [Fikri Khairul Shaleh](https://github.com/fikriks)
+
+- Place: Indonesia
+- Bio: Student
+- GitHub: [fikriks](https://github.com/fikriks)
