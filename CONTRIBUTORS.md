@@ -63,6 +63,16 @@
 - Place: India
 
 
+
 #### Name: [Harsh Bhakkad](https://github.com/HarshBhakkad)
 
 - College: IIT Guwahati.
+
+- Bio: Student
+
+## Name: [Fikri Khairul Shaleh](https://github.com/fikriks)
+
+- Place: Indonesia
+- Bio: Student
+- GitHub: [fikriks](https://github.com/fikriks)
+
