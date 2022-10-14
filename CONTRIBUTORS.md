@@ -72,4 +72,11 @@
 - Bio: Student
 - GitHub: [fikriks](https://github.com/fikriks)
 
+## Name: Saloni Bindal(https://github.com/Binsal)
+
+- Place: Madhya Pradesh, India
+- Bio: Student
+- GitHub: [Binsal](https://github.com/Binsal)
+
+
 
